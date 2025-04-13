@@ -3,17 +3,21 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoPPArantes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=JoaoPPArantes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPPArantes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=ecf05e47v0cmrcoaoc4sa1pweqsj8s9btdaj7qj0n9agoxye&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=ecf05e47v0cmrcoaoc4sa1pweqsj8s9btdaj7qj0n9agoxye&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -31,7 +35,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="joaopaulop.arantes@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -48,10 +52,10 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left"></p>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left"></p>
 
 ###
