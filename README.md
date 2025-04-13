@@ -12,7 +12,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=ecf05e47v0cmrcoaoc4sa1pweqsj8s9btdaj7qj0n9agoxye&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+  <img height="-3" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25hdG16NmZ3cWo1ajZhaTloNmNwMW03YjJ2bzZnanl4MDY5c25hNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8wCBLhkjNknS/giphy.gif"  />
 </div>
 
 ###
@@ -57,5 +57,3 @@
 ###
 
 <p align="left"></p>
-
-###
